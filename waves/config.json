@@ -1,19 +1,19 @@
 {
   "GravityScriptFile": "../core/abi/waves/gravity.abi",
   "NebulaScriptFile": "../core/abi/waves/nebula.abi",
-  "SubMockScriptFile": "../gateway/abi/waves/luport.abi",
+  "SubMockScriptFile": "../gateway/abi/waves/ibport.abi",
   "NodeUrl": "https://nodes-stagenet.wavesnodes.com",
   "ChainId": 83,
   "DistributionSeed": "amused plastic celery broken ladder loop category budget muscle shrimp foam february common mercy clay",
-  "GravityContractSeed": "try cradle accident lumber naive convince ladder peace child shaft spend mention host draft pigeon",
-  "NebulaContractSeed": "rely weather attitude kiwi found slot south kid upon agree negative oil lyrics company stuff",
-  "SubscriberContractSeed": "disease dish reward arrest eight use weasel wing nature key symptom earn question dance erode",
+  "GravityContractSeed": "pretty legal decade solve argue invite claim club install rather delay poet group injury proud",
+  "NebulaContractSeed": "ensure abuse erase fork review limb deny clarify move narrow glide almost arrest cargo lecture",
+  "SubscriberContractSeed": "elbow divert follow inner elbow purpose truck fancy mechanic common ritual anxiety orphan barely eight",
   "ConsulsAddressList": [
-    "3MV2vM2NBHaDjqxYNHEHR89vqigrHe7k9Mx",
-    "3MV2vM2NBHaDjqxYNHEHR89vqigrHe7k9Mx",
-    "3MV2vM2NBHaDjqxYNHEHR89vqigrHe7k9Mx",
-    "3MV2vM2NBHaDjqxYNHEHR89vqigrHe7k9Mx",
-    "3MV2vM2NBHaDjqxYNHEHR89vqigrHe7k9Mx",
-    "3MV2vM2NBHaDjqxYNHEHR89vqigrHe7k9Mx"
+    "3MjdXn41uYmNnDDQwNJxGhTBHSnVnjxdhLW",
+    "3MjdXn41uYmNnDDQwNJxGhTBHSnVnjxdhLW",
+    "3MjdXn41uYmNnDDQwNJxGhTBHSnVnjxdhLW",
+    "3MjdXn41uYmNnDDQwNJxGhTBHSnVnjxdhLW",
+    "3MjdXn41uYmNnDDQwNJxGhTBHSnVnjxdhLW",
+    "3MjdXn41uYmNnDDQwNJxGhTBHSnVnjxdhLW"
   ]
 }

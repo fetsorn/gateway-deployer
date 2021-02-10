@@ -20,6 +20,10 @@ github.com/ChainSafe/go-schnorrkel v0.0.0-20200405005733-88cbf1b4c40d/go.mod h1:
 github.com/Gravity-Tech/gateway v0.0.0-20201022230333-092c2f1efb8f/go.mod h1:JmNcu4ZgdKWm/galwciLNOfWeApNF2HlKztP41FINSo=
 github.com/Gravity-Tech/gateway v0.0.0-20201124091823-5afa09c94e82 h1:kUorJL+0VC46qyA7ZYj9jHYuCGFqvkYvtCJL0sx1VOI=
 github.com/Gravity-Tech/gateway v0.0.0-20201124091823-5afa09c94e82/go.mod h1:JmNcu4ZgdKWm/galwciLNOfWeApNF2HlKztP41FINSo=
+github.com/Gravity-Tech/gateway v0.0.0-20210205172709-4b87b46255af h1:di+qdE5Di3BQunOduoBSodEikn8VmoTkwas1bVH3cyY=
+github.com/Gravity-Tech/gateway v0.0.0-20210205172709-4b87b46255af/go.mod h1:JmNcu4ZgdKWm/galwciLNOfWeApNF2HlKztP41FINSo=
+github.com/Gravity-Tech/gateway v0.0.0-20210210123903-594af3c56ba4 h1:DIyV5Ibe3N97SBnem0QAhBPw5LcrMmVWL0Si7d9W6Mw=
+github.com/Gravity-Tech/gateway v0.0.0-20210210123903-594af3c56ba4/go.mod h1:JmNcu4ZgdKWm/galwciLNOfWeApNF2HlKztP41FINSo=
 github.com/Gravity-Tech/gravity-core v1.0.2-0.20201104145346-2a5b10abdd59 h1:CDIpnu2csIoTRzhDQIuLWo0edPZU08zw184oToEGCpY=
 github.com/Gravity-Tech/gravity-core v1.0.2-0.20201104145346-2a5b10abdd59/go.mod h1:BhkZFfq0hRMHhA9IjOrX4hlTgOO6Octnnzfp4zfuvq4=
 github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible/go.mod h1:r7JcOSlj0wfOMncg0iLm8Leh48TZaKVeNIfJntJ2wa0=
